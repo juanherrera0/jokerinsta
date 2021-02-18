@@ -1,0 +1,184 @@
+/* FONTS ************************************/
+@font-face {
+  font-family: Montserrat;
+  src: url(fonts/Montserrat/Montserrat-BlackItalic.ttf);
+
+
+}
+@font-face {
+  font-family: Montserrat2;
+  src: url(fonts/Montserrat/Montserrat-BlackItalic.ttf);
+
+
+
+
+
+}
+@font-face {
+  font-family: LongCang-Regular;
+  src: url(fonts/LongCang-Regular/LongCang-Regular.ttf);
+
+
+
+
+
+}
+/**********/
+
+
+
+
+
+
+
+body {
+ display: flex;
+   justify-content: center;
+   background: repeating-linear-gradient(
+     45deg,
+     #014202,
+     #014202 10px,
+     #265427 70px,
+     #265427 20px
+     );
+   }
+
+
+   div.fixed {
+     position: center;
+     bottom: 700px;
+     right: 0px;
+     left:600px;
+     width: 3000px;
+     font-size: 50px;
+
+
+   }
+ }
+ h1{
+   font-family: Montserrat;
+ background:blue
+color:lightblue;
+}
+
+h1 {
+  font-family: Montserrat2;
+background:blue
+color:lightblue;
+}
+fixed{
+  font-family: LongCang-Regular;
+background:blue
+color:lightblue;
+}
+
+
+ #rcorners1{
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  position: relative;
+  bottom: -1800px;
+  border-width: 10px;
+  left:-480px;
+
+}
+#hero-image{
+  display: flex;
+    justify-content: center;
+
+}
+#hero-image img{
+  width:250px;
+  height:250px;
+  position: relative;
+  bottom: 100px;
+
+}
+
+
+ #slider{
+   overflow: hidden;
+ }
+ #slider figure{
+   position: relative;
+   width: 500%;
+   margin:0;
+   left:800;
+   animation:1s slider infinite;
+ }
+
+ }
+#button{
+  position: relative;
+  bottom:-1700px;
+  left:-95px;
+}
+
+#blank{
+ position: relative;
+ bottom:-1650px;
+ left:-120px;
+}
+
+ #container{
+   position: relative;
+   top:100px;
+
+   width:500px;
+
+ }
+ #content-box{
+   background: #FFF;
+   padding:15px;
+   margin-bottom:25px;
+   border-color: yellow;
+   box-shadow: 10px 10px 8px #888888;
+
+
+
+ }
+ul{
+  position: relative;
+  list-style-type: none;
+  margin:25px;
+  padding:0px;
+  display:flex;
+  Justify-content: center;
+
+}
+a{
+  font-family: Montserrat2;
+  position: relative;
+  text-decoration: none;
+  background:#FFF;
+  padding: 15px;
+  margin-bottom:-2px;
+  color: yellow;
+}
+a:hover{
+  background:black;
+  color:#000;
+}
+#rcorners1{
+border-radius: 25px;
+background: #73AD21;
+padding: 20px;
+width: 200px;
+height: 150px;
+border: 20px:
+top:100;
+left:20;
+}
+
+}
+#juanh{
+  position: relative;
+bottom:100px;
+left:81000px;
+}
+
+
+}
